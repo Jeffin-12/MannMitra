@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "id": "MM_bnUchU4wf4",
+      "createdAt": 1758441521910,
+      "logs": [
+        {
+          "time": 1758441537404,
+          "incoming": "good",
+          "outgoing": "I'm having trouble reaching the AI engine right now — I'm here to listen. Can you tell me more about what's on your mind?",
+          "riskScore": 1
+        },
+        {
+          "time": 1758441757579,
+          "incoming": "not so well",
+          "outgoing": "I'm having trouble reaching the AI engine right now — I'm here to listen. Can you tell me more about what's on your mind?",
+          "riskScore": 0
+        },
+        {
+          "time": 1758441781070,
+          "incoming": "feeling lonley",
+          "outgoing": "I'm having trouble reaching the AI engine right now — I'm here to listen. Can you tell me more about what's on your mind?",
+          "riskScore": 0
+        }
+      ]
+    }
+  ]
+}
